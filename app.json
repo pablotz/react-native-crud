@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-crud",
+    "slug": "react-native-crud",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-crud"
+}
